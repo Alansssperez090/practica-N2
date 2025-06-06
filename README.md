@@ -1,7 +1,6 @@
 Práctica 2 – Contador de letras ✍️
 Este proyecto en Python solicita al usuario un número entero distinto de cero.
 Si el número es positivo, permite ingresar una palabra y muestra cuántas letras contiene.
-La práctica refuerza el uso de condicionales, bucles y entrada de datos.
 
 ¿Cómo funciona? 🤖
 Ejecutar el archivo practica2.py.
